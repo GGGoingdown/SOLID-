@@ -1,12 +1,15 @@
 # SOLID Example
 
 ### Single Responsibility Principle :
+> **A class should one and only one reason to change**
+
+
 - [Example1](SingleResponsibility/srp_exp1.py)
 ---
 
 ### Open Closed Principle :
-
-
+> **Software entities should  be open for extension, but closed for modification**
+- [Example1](OpenClosed/ocp_exp1.py)
 ---
 
 ### Liskov Substitution Principle :
