@@ -16,7 +16,7 @@
 
 --- 
 ### Interface Segregation Principle :
-
+- [Example1](InterfaceSegregation/isp_exp1.py)
 ---
 ### Dependency Inversion :
 - [Example1](DependencyInversion/di_exp1.py)
